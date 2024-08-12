@@ -11,7 +11,7 @@
    Ao clicar no botão "Gerar Senha", o sistema gera automaticamente uma senha personalizada de acordo com as preferências selecionadas pelo usuário.
 
    Última Atualização
-    Data: 12/08/2014
+    Data: 12/08/2024
     Versão: 1.1
 
    Detalhes da Atualização:
@@ -58,7 +58,7 @@
 
 
    Atualização Anterior
-    Data: 08/08/2014
+    Data: 08/08/2024
     Versão: 1.0
 
    Detalhes da Atualização:
