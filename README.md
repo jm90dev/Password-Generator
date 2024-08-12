@@ -4,6 +4,8 @@
 
   Password Generator V1.1
 
+  Visite em: https://jm90dev.github.io/Password-Generator/
+
   Descrição do Projeto:
 
    O Password Generator V1.1 é uma ferramenta simples, rápida e segura para a geração de senhas personalizadas. Desenvolvido com HTML5, CSS3 e JavaScript ES6, o gerador permite que o usuário escolha a quantidade de caracteres, incluindo letras maiúsculas, minúsculas, números e caracteres especiais, para criar senhas robustas e seguras.
