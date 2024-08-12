@@ -18,10 +18,7 @@
 
     Melhorias de Interface:
 
-     - Implementação de um novo layout em estilo clássico.
-     - Modificação do nome de "Gerador de Senhas Seguras" para "Password Generator".
-     - Mudança do arquivo index.html da pasta "src" para a pasta principal do projeto.
-     - Criação de logotipo, ícones e rodapé.
+     Implementação de um novo layout em estilo clássico. Modificação do nome de "Gerador de Senhas Seguras" para "Password Generator". Mudança do arquivo index.html da pasta "src" para a pasta principal do projeto. Criação de logotipo, ícones e rodapé.
 
    Interface:
 
@@ -65,10 +62,7 @@
 
     Criação do Projeto:
 
-     Desenvolvimento inicial do gerador de senhas seguras com HTML, CSS e JavaScript.
-     Implementação de background e criação da interface de formulário para o gerador.
-     Estilização inicial da página e implementação de funcionalidades básicas com JavaScript.
-     Testes de funcionamento e ajustes finais.
+     Desenvolvimento inicial do gerador de senhas seguras com HTML, CSS e JavaScript. Implementação de background e criação da interface de formulário para o gerador. Estilização inicial da página e implementação de funcionalidades básicas com JavaScript. Testes de funcionamento e ajustes finais.
 
    Código-Fonte:
 
